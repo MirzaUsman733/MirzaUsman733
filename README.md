@@ -3,10 +3,10 @@
 - 🔭 Currently working As Frontend developer.
 - Languages: JavaScript (ES6+), Typescript
 -  **Frontend:** HTML5, CSS3, SCSS, Tailwind, Ant-Design,Material-UI, Bootstrap-5, React-JS, Next-JS, ContextAPI, Redux
--  **Backend:** Node-JS, Express-JS, Firebase | **Databases:** MongoDB, Firestore
-- 🌱 I’m currently learning high level of programming in the javascript.
+-  **Backend:** Node-JS, Express-JS, Firebase, Next-Auth | **Databases:** MongoDB, Firestore
+- 🌱 I’m currently learning high level of programming in the Javascript and Typescript.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me mirzausman9006@gmail.com
 
 <!---
