@@ -9,7 +9,7 @@
 - 🎯 **2024 Goal: Master a New Technology or Framework**
   - Actively engaging with [ReactJS / NextJs and TypeScript].
   - Building practical projects to apply newfound knowledge.
-- 📫 How to reach me: [Email](mirzausman9006@gmail.com "Send an Email")
+- 📫 How to reach me: [Email](mailto:mirzausman9006@gmail.com "Send an Email")
 - 🌐 Explore my projects on [GitHub](https://github.com/MirzaUsman733/MirzaUsman733 "Visit GitHub Profile")
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mirzausman-developer/ "Connect on LinkedIn")
 - 💡 Fun Fact: I love exploring new technologies and finding creative solutions to complex problems.
