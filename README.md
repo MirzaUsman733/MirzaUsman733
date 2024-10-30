@@ -1,9 +1,9 @@
 # Hi there, I'm Muhammad Usman 👋.
 ## I'm a Passionate Full Stack Web Developer, specializing in NextJS.
 - 🔭 Currently working As Full Stack (NextJS) developer at Slick Starter.
-- 💻 **Languages:** JavaScript (ES6+), Typescript
-- 🎨 **Frontend:** HTML5, CSS3, SCSS, Tailwind, Ant-Design, Material-UI, Bootstrap-5, React-JS, Next-JS, ContextAPI, Redux, Javascript, TypeScript
-- 🚀 **Backend:** Node-JS, Express-JS, Firebase, Next-Auth, NextJS, Prisma, Mongoose | 🗃️  **Databases:** MongoDB, Firebase, MySql
+- 💻 **Languages:** JavaScript (ES6+), Typescript, PHP
+- 🎨 **Frontend:** HTML5, CSS3, SCSS, Tailwind, Ant-Design, Material-UI, Bootstrap-5, React-JS, Laravel, Next-JS, ContextAPI, Redux, Javascript, TypeScript
+- 🚀 **Backend:** Node-JS, Express-JS, Firebase, Next-Auth, NextJS, Prisma, Mongoose | 🗃️  **Databases:** MongoDB, Firebase, MySql, Supabase
 - 🌱 I’m currently learning high level of programming in the Javascript and Typescript.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🎯 **2024 Goal: Master a New Technology or Framework**
